@@ -1,5 +1,19 @@
 # Bionic Text Converter
 
+Usage:
+
+```
+py bionic-reading.py [input file] [output file]
+```
+
+e.g.
+
+```
+py bionic-reading.py in.txt out.md
+```
+
+You can use an online markdown editor such as [Dillinger](https://dillinger.io/) or a standalone one such as [Typora](https://typora.io/) to see the formatted output.
+
 Check it out for yourself:
 
 ----
